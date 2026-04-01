@@ -1,4 +1,4 @@
-**Update: Due to many automatically generated and irrelevant issues submitted to this repo and our limited capacity to properly maintain this repo, we have to temporaliy archive (make read-only) this and several other repos.**
+**Update: Due to many automatically generated and irrelevant issues submitted to this repo (that have been deleted now) and our limited capacity to properly maintain this repo, we have to temporaliy archive (make read-only) this and several other repos.**
 
 
 # Less is More: Recursive Reasoning with Tiny Networks
